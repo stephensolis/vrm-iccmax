@@ -1,0 +1,24 @@
+# Editor files
+*.njsproj
+*.ntvs*
+*.sln
+*.suo
+*.sw?
+.DS_Store
+.icloud
+.idea
+.vscode/*
+!.vscode/launch.json
+
+# Python files
+*$py.class
+*.env
+.*_env
+*.py[cod]
+.cache
+.coverage*
+.mypy_cache
+.pytest_cache
+.ruff_cache
+.venv
+__pycache__
